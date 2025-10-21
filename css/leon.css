@@ -66,6 +66,9 @@ html {
     .contact .info .label, .contact .info .link {
         font-size: 25px !important;
     }
+    .footer {
+        font-size: 10px !important;
+    }
 }
 /* #endregion */
 /*~ End gloabal roles */
@@ -485,4 +488,5 @@ content: "";
     font-weight: 800;
 }
 /* #endregion */
+
 /*~ End footer */
